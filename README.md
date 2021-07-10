@@ -1,4 +1,8 @@
-# Fortnite-launch-script
+# Fortnite-launch-script 
+
+https://twitter.com/amitxv
+
+Discord: AMIT#7692
 
 If you play Fortnite you may be familiar with the two anticheats used which are EasyAntiCheat and Battle Eye.
 
