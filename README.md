@@ -22,7 +22,7 @@ NOTES:
 
 --------------------------------------------- INSTRUCTIONS ---------------------------------------------
 
-1) right click the EAC_DATE_FINDER.bat > edit
+1) right click the EAC_DATE_FINDER.bat or BE_DATE_FINDER (depending on what anticheat you plan to force) > edit
 
 2) change the game exe path if you have installed Fortnite to somewhere other than the default directory e.g another drive etc... (don't forget to use quotes)
 
