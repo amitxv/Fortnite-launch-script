@@ -19,7 +19,7 @@ NOTE: You must always use this script in the C:\ dir to launch the game.
 You may also discover that your chosen anticheat date will be invalid after a game update etc.. Simply run the EAC_DATE_FINDER.bat script to find a new date and create a new launch script in the C:\ dir.
 
 
---------------------------------------------------------------------------- INSTRUCTIONS ---------------------------------------------------------------------------
+--------------------------------------------- INSTRUCTIONS ---------------------------------------------
 
 1) right click the EAC_DATE_FINDER.bat > edit
 
