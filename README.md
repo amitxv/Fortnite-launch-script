@@ -25,6 +25,9 @@ You may also discover that your chosen anticheat date will be invalid after a ga
 
 2) change the game exe path if you have installed Fortnite to somewhere other than the default directory e.g another drive etc...
 
+![image](https://user-images.githubusercontent.com/86924251/125170762-75ad9e80-e1a8-11eb-9f51-a26b2addf9ad.png)
+
+
 3) run the script. your game will close and reopen multiple times, just be patient for it to find a date to launch with your chosen anticheat.
 
 4) once the script has found a date to launch with your chosen anticheat, it will create a script in the C:\ dir which you must use to launch Fortnite each time you would like to play.
