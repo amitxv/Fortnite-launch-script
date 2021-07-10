@@ -23,7 +23,7 @@ You may also discover that your chosen anticheat date will be invalid after a ga
 
 1) right click the EAC_DATE_FINDER.bat > edit
 
-2) change the game exe path if you have installed Fortnite to somewhere other than the default directory e.g another drive etc...
+2) change the game exe path if you have installed Fortnite to somewhere other than the default directory e.g another drive etc... (don't forget to use quotes)
 
 ![image](https://user-images.githubusercontent.com/86924251/125170762-75ad9e80-e1a8-11eb-9f51-a26b2addf9ad.png)
 
