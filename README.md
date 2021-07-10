@@ -14,9 +14,16 @@ To launch with the anticheats you would have to find the system date on windows 
 4) query the anticheat until it is running
 5) once it is running, create a script to launch Fortnite with the date and time in which the anticheat launched in the C:\ directory.
 
-NOTE: You must always use this script in the C:\ dir to launch the game.
+NOTES: 
 
-You may also discover that your chosen anticheat date will be invalid after a game update etc.. Simply run the EAC_DATE_FINDER.bat script to find a new date and create a new launch script in the C:\ dir.
+> You must always use this script in the C:\ dir to launch the game.
+
+> You may also discover that your chosen anticheat date will be invalid after a game update etc.. Simply run the EAC_DATE_FINDER.bat script to find a new date and create a new launch script in the C:\ dir.
+
+> Ensure that you have this option enabled in control panel.
+
+![image](https://user-images.githubusercontent.com/86924251/125172437-ae9e4100-e1b1-11eb-80e3-25fd5879248c.png)
+
 
 
 --------------------------------------------- INSTRUCTIONS ---------------------------------------------
