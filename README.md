@@ -44,10 +44,10 @@ NOTES:
 Binary consists of 1's and 0's
 
 1 = Active/Enabled CPU
+
 0 = Inactive/Disabled CPU
 
-type how many cores you have somewhere in the following format.
-each 1 represents a core or thread
+type how many cores you have somewhere in the following format. each 1 represents a core or thread
 
 4c4t = 1111
 
@@ -56,7 +56,9 @@ each 1 represents a core or thread
 8c8t = 11111111
 
 4c8t = 11111111
+
 6c12t = 111111111111
+
 8c16t = 1111111111111111
 
 hyperthreading on works as follows:
