@@ -58,6 +58,7 @@ each 1 represents a core or thread
 8c16t = 1111111111111111
 
 hyperthreading on works as follows:
+
                                      CPU 0         CPU 1        CPU 2         CPU 3
                                 (CORE THREAD) (CORE THREAD) (CORE THREAD) (CORE THREAD)
 
