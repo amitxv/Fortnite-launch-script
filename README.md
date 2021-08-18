@@ -57,13 +57,19 @@ type how many cores you have somewhere in the following format. each 1 represent
 
 8c8t = 11111111
 
+hyperthreading OFF works as follows:
+
+                                     CPU 0  CPU 1  CPU 2  CPU 3
+                                    (CORE) (CORE) (CORE) (CORE)
+
+
 4c8t = 11111111
 
 6c12t = 111111111111
 
 8c16t = 1111111111111111
 
-hyperthreading on works as follows:
+hyperthreading ON works as follows:
 
                                      CPU 0         CPU 1        CPU 2         CPU 3
                                 (CORE THREAD) (CORE THREAD) (CORE THREAD) (CORE THREAD)
