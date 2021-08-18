@@ -47,6 +47,8 @@ Binary consists of 1's and 0's
 
 0 = Inactive/Disabled CPU
 
+------------------------------------------------------------------------------------------
+
 type how many cores you have somewhere in the following format. each 1 represents a core or thread
 
 4c4t = 1111
@@ -65,6 +67,8 @@ hyperthreading on works as follows:
 
                                      CPU 0         CPU 1        CPU 2         CPU 3
                                 (CORE THREAD) (CORE THREAD) (CORE THREAD) (CORE THREAD)
+
+------------------------------------------------------------------------------------------
 
 remember that it works in reverse, so for example:
 
