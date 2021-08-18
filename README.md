@@ -66,8 +66,10 @@ hyperthreading on works as follows:
                                      CPU 0         CPU 1        CPU 2         CPU 3
                                 (CORE THREAD) (CORE THREAD) (CORE THREAD) (CORE THREAD)
 
-remember that it works in reverse, so for example: 
+remember that it works in reverse, so for example:
+
 removing Fortnite from CPU 0 on a 6c6t processor would be 111110
+
 removing Fortnite from CPU 0 on a 6c12t processor would be 111111111100
 
 Type the binary affinity in the script when asked, it will automatically convert it to decimal and put it in your customized launch script
