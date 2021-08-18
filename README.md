@@ -61,7 +61,7 @@ hyperthreading OFF works as follows:
 
                                      CPU 0   CPU 1   CPU 2   CPU 3   CPU 4   CPU 5
                                     (CORE)  (CORE)  (CORE)  (CORE)  (CORE)  (CORE)
-
+                                       1       1       1       1       1       1 
 
 4c8t = 11111111
 
@@ -73,6 +73,7 @@ hyperthreading ON works as follows:
 
                            CPU 0         CPU 1         CPU 2         CPU 3         CPU 4         CPU 5 
                        (CORE THREAD) (CORE THREAD) (CORE THREAD) (CORE THREAD) (CORE THREAD) (CORE THREAD)
+                             11            11            11            11            11            11
 
 ------------------------------------------------------------------------------------------
 
