@@ -50,7 +50,9 @@ type how many cores you have somewhere in the following format.
 each 1 represents a core or thread
 
 4c4t = 1111
+
 6c6t = 111111
+
 8c8t = 11111111
 
 4c8t = 11111111
